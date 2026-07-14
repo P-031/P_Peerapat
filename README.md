@@ -12,18 +12,18 @@
 
   <!-- 📈 GitHub Stats Card & Top Languages (การ์ดสรุปสถิติรวมและภาษาหลัก) -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=P-031&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" height="150" />
+  <a href="https://github.com/P-031">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-031&layout=compact&theme=default" alt="Top Languages" height="150" />
   </a>
 
   <br /><br />
 
   <!-- 📈 Contribution Graph (กราฟเส้นแสดงการ Commit ในแต่ละวันแบบด้านล่างสุดของภาพ) -->
   <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&area=true&custom_title=Peerapat%20P.%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
+    <a href="https://github.com/P-031">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-031&theme=github-light&area=true&custom_title=Peerapat%20P.%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
     </a>
   </p>
 </div>
