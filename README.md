@@ -1,4 +1,4 @@
-# Peerapat Chanasongkram (พีรภัทร ชนะสงคราม)
+# Peerapat Chanasongkram (พีรพัฒน์ ชนะสงคราม)
 
 <div align="center">
   <!-- เปลี่ยน URL รูปภาพแบนเนอร์ตรงนี้หากต้องการสร้างแบนเนอร์ของตัวเอง -->
