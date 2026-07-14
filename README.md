@@ -1,4 +1,4 @@
-# Peerapat Chanasongkram (พีรภัทร ชนะสงคราม)
+# Peerapat Chanasongkram (พีรพัฒน์ ชนะสงคราม)
 
 <div align="center">
   <!-- แบนเนอร์ด้านบนสุด เปลี่ยนข้อความ text= เป็นชื่อ P เรียบร้อยครับ -->
