@@ -11,7 +11,7 @@
   <p align="center">
     <!-- 👁️ ระบบนับยอดวิวของจริง: เปลี่ยน YOUR_GITHUB_USERNAME เป็น Username ของคุณได้เลย -->
     <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=P-031&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
     </a>
     <a href="#"><img src="https://img.shields.io/badge/Open%20to-Internship-blue?style=flat-square" alt="Internship" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Based%20in-Thailand-orange?style=flat-square" alt="Location" /></a>
@@ -32,5 +32,5 @@ const peerapat = {
   stack:   ["Angular", "NestJS", "Firebase", "Node.js", "TypeScript"],
   iot:     ["Arduino", "NodeMCU (ESP8266)", "Sensors Integration"],
   status:  "Seeking a Full-Stack Developer / IoT internship",
-  contact: "peerapat25202520@gmail.com" // 📥 เปลี่ยนเป็นอีเมลของคุณตรงนี้ได้เลยครับ
+  contact: "peerapat25202520@gmail.com" 
 };
