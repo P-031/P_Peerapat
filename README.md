@@ -71,3 +71,66 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+
+## 🚀 โครงการเด่น (Featured Projects)
+
+<table>
+  <tr>
+    <!-- กล่องที่ 1: BRU Smart Map -->
+    <td width="50%" valign="top">
+      <h3>🗺️ BRU Smart Map <img src="https://img.shields.io/badge/Status-Ongoing-brightgreen?style=flat-square" alt="Status" /></h3>
+      <p>ระบบนำทางและแผนที่อัจฉริยะภายในมหาวิทยาลัยราชภัฏบุรีรัมย์ พัฒนาครอบคลุมทั้งรูปแบบ Web Portal และ Mobile Application เพื่ออำนวยความสะดวกในการค้นหาเส้นทางและอาคารเรียน</p>
+      <p><sub><b>เทคโนโลยีที่ใช้:</b> Angular, NestJS, Firebase, Google Maps API</sub></p>
+      <a href="https://github.com/P-031/BRU-Map"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code" /></a>
+    </td>
+    <!-- กล่องที่ 2: Smart Farm IoT -->
+    <td width="50%" valign="top">
+      <h3>🤖 Smart Farm System <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" /></h3>
+      <p>ระบบฟาร์มอัจฉริยะควบคุมและตรวจวัดความชื้นด้วยบอร์ดไมโครคอนโทรลเลอร์อัตโนมัติ พร้อมระบบเปิด-ปิดปั๊มน้ำอิงตามค่าความชื้นของเซนเซอร์แบบเรียลไทม์</p>
+      <p><sub><b>เทคโนโลยีที่ใช้:</b> NodeMCU (ESP8266), SHT30 Sensor, Arduino IDE, C++</sub></p>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <!-- กล่องที่ 3: ปัญหาเป้สะพายหลัง Knapsack -->
+    <td width="50%" valign="top">
+      <h3>🎒 ปริศนากระเป๋าเป้สะพายหลัง <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status" /></h3>
+      <p>โปรแกรมวิเคราะห์และหาคำตอบสำหรับปัญหา 0/1 Knapsack Problem เปรียบเทียบประสิทธิภาพและการทำงานของอัลกอริทึมในรูปแบบต่างๆ ร่วมกับทีมโปรแกรมเมอร์</p>
+      <p><sub><b>เทคโนโลยีที่ใช้:</b> Algorithm Analysis, Python, Data Structure</sub></p>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github" alt="Source Code" /></a>
+    </td>
+    <!-- กล่องที่ 4: Data Mining App -->
+    <td width="50%" valign="top">
+      <h3>📊 Data Mining Exploration <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status" /></h3>
+      <p>เครื่องมือจำลองและประมวลผลการจัดกลุ่มและวิเคราะห์ความสัมพันธ์ของชุดข้อมูลโดยประยุกต์ใช้แนวคิดแบบ K-Means Clustering และ Apriori Algorithm</p>
+      <p><sub><b>เทคโนโลยีที่ใช้:</b> Python, Scikit-learn, Data Science</sub></p>
+      <a href="#"><img src="https://img.shields.io/badge/Academic-Project-007acc?style=flat-square" alt="Academic" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏅 ประกาศนียบัตรและรางวัล (Certificates & Awards)
+
+* 🏆 **นักศึกษาภาควิชาวิทยาการคอมพิวเตอร์** · มหาวิทยาลัยราชภัฏบุรีรัมย์ (Buriram Rajabhat University)
+* 💼 **โครงการพัฒนาระบบเทคโนโลยีและแอปพลิเคชัน** · การวิเคราะห์ออกแบบระบบ DFD, Flowchart และโครงสร้างฐานข้อมูลเชิงปฏิบัติการ
+* 🏅 **การเข้าร่วมกิจกรรมวิชาการและการแข่งขัน** · นำเสนอและทดสอบระบบโปรเจกต์ต่อหน้าคณะกรรมการผู้ทรงคุณวุฒิ
+
+📁 *คุณสามารถดูเอกสารและผลงานทั้งหมดที่เกี่ยวข้องได้ในคลังเก็บโปรเจกต์ซอร์สโค้ด*
+
+---
+
+<div align="center">
+  <h2>มาเชื่อมต่อกันเถอะ (Connect with me)</h2>
+
+  <!-- 📥 อย่าลืมเปลี่ยน your.email@gmail.com เป็นอีเมลจริงของคุณนะครับ -->
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-your.email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/P-031">
+    <img src="https://img.shields.io/badge/GitHub-P--031-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
