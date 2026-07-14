@@ -127,7 +127,7 @@
 
   <!-- 📥 อย่าลืมเปลี่ยน your.email@gmail.com เป็นอีเมลจริงของคุณนะครับ -->
   <a href="mailto:peerapat25202520@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-peerapat25202520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/P-031">
     <img src="https://img.shields.io/badge/GitHub-P--031-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
