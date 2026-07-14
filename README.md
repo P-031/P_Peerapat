@@ -20,22 +20,6 @@
 
 ---
 
-## 🛠️ About Me
-
-I'm **P**, a Computer Science student at **Buriram Rajabhat University**. I love turning complex ideas into clean, functional applications—whether it's web platforms, mobile apps, or smart IoT systems.
-
-```javascript
-const peerapat = {
-  name:    "Peerapat Chanasongkram (P)",
-  role:    "Full-Stack & IoT Developer",
-  school:  "Buriram Rajabhat University - Computer Science",
-  stack:   ["Angular", "NestJS", "Firebase", "Node.js", "TypeScript"],
-  iot:     ["Arduino", "NodeMCU (ESP8266)", "Sensors Integration"],
-  status:  "Seeking a Full-Stack Developer / IoT internship",
-  contact: "your.email@gmail.com" // 📥 เปลี่ยนเป็นอีเมลของคุณตรงนี้ได้เลยครับ
-};
----
-
 ## 📊 GitHub Stats (Live Sync)
 
 <div align="center">
