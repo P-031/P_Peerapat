@@ -115,11 +115,10 @@
 
 ## 🏅 ประกาศนียบัตรและรางวัล (Certificates & Awards)
 
-* 🏆 **นักศึกษาภาควิชาวิทยาการคอมพิวเตอร์** · มหาวิทยาลัยราชภัฏบุรีรัมย์ (Buriram Rajabhat University)
-* 💼 **โครงการพัฒนาระบบเทคโนโลยีและแอปพลิเคชัน** · การวิเคราะห์ออกแบบระบบ DFD, Flowchart และโครงสร้างฐานข้อมูลเชิงปฏิบัติการ
-* 🏅 **การเข้าร่วมกิจกรรมวิชาการและการแข่งขัน** · นำเสนอและทดสอบระบบโปรเจกต์ต่อหน้าคณะกรรมการผู้ทรงคุณวุฒิ
+* 💼 **นักพัฒนาระบบ (System Devaloper)**  [Verify Credential](https://drive.google.com/drive/folders/14dKJ0gwqjVImJ74NO-bw7x5r1XVc8s7f?usp=sharing) สถาบันคุณวุฒิวิชาชีพ(องค์การมหาชน)-สาขาวิชาชีพอุตสาหกรรมดิจิทัล
 
-📁 *คุณสามารถดูเอกสารและผลงานทั้งหมดที่เกี่ยวข้องได้ในคลังเก็บโปรเจกต์ซอร์สโค้ด*
+
+📁 *คุณสามารถดูเอกสารและผลงานทั้งหมดที่เกี่ยวข้องได้ในคลังเก็บโปรเจกต์ซอร์สโค้ด*[Verify Credential](https://drive.google.com/drive/folders/14dKJ0gwqjVImJ74NO-bw7x5r1XVc8s7f?usp=sharing)
 
 ---
 
@@ -127,7 +126,7 @@
   <h2>มาเชื่อมต่อกันเถอะ (Connect with me)</h2>
 
   <!-- 📥 อย่าลืมเปลี่ยน your.email@gmail.com เป็นอีเมลจริงของคุณนะครับ -->
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:peerapat25202520@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/P-031">
