@@ -20,23 +20,6 @@
 
 ---
 
-## 🛠️ About Me
-
-I'm **P**, a Computer Science student at **Buriram Rajabhat University**. I love turning complex ideas into clean, functional applications—whether it's web platforms, mobile apps, or smart IoT systems.
-
-```javascript
-const peerapat = {
-  name:    "Peerapat Chanasongkram (P)",
-  role:    "Full-Stack & IoT Developer",
-  school:  "Buriram Rajabhat University - Computer Science",
-  stack:   ["Angular", "NestJS", "Firebase", "Node.js", "TypeScript"],
-  iot:     ["Arduino", "NodeMCU (ESP8266)", "Sensors Integration"],
-  status:  "Seeking a Full-Stack Developer / IoT internship",
-  contact: "peerapat25202520@gmail.com" 
-};
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -78,3 +61,21 @@ const peerapat = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+
+## 🛠️ About Me
+
+I'm **P**, a Computer Science student at **Buriram Rajabhat University**. I love turning complex ideas into clean, functional applications—whether it's web platforms, mobile apps, or smart IoT systems.
+
+```javascript
+const peerapat = {
+  name:    "Peerapat Chanasongkram (P)",
+  role:    "Full-Stack & IoT Developer",
+  school:  "Buriram Rajabhat University - Computer Science",
+  stack:   ["Angular", "NestJS", "Firebase", "Node.js", "TypeScript"],
+  iot:     ["Arduino", "NodeMCU (ESP8266)", "Sensors Integration"],
+  status:  "Seeking a Full-Stack Developer / IoT internship",
+  contact: "peerapat25202520@gmail.com" 
+};
+
